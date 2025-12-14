@@ -1,4 +1,4 @@
-# Governmenrt Schemes CHATBOT for Rural Empowerment
+# Government Schemes CHATBOT for Rural Empowerment
 
 A comprehensive AI-powered chatbot designed to help rural and illiterate users access information about government schemes, policies, and benefits in their native language.
 
