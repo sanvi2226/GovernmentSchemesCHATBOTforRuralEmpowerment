@@ -1,0 +1,11 @@
+streamlit
+numpy
+transformers
+sentence-transformers
+SpeechRecognition
+pyaudio
+gTTS
+pydub
+langdetect
+deep-translator
+faiss-cpu
