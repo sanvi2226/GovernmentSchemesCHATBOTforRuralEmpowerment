@@ -4,19 +4,19 @@ A comprehensive AI-powered chatbot designed to help rural and illiterate users a
 
 ## Features
 
-### 🎯 Core Functionality
+### Core Functionality
 - **Multilingual Support**: Supports multiple Indian languages including Hindi, English, Bengali, Telugu, Marathi, Tamil, Gujarati, Kannada, Malayalam, and Punjabi
 - **Speech Integration**: Voice input and output capabilities for illiterate users
 - **RAG System**: Retrieval-Augmented Generation for accurate, contextual responses
 - **Government Schemes Database**: Comprehensive knowledge base of Indian government schemes and policies
 
-### 🗣️ Voice Features
+### Voice Features
 - Speech-to-Text conversion in multiple Indian languages
 - Text-to-Speech response generation
 - Audio input recording and processing
 - Language-specific voice recognition
 
-### 🏛️ Government Schemes Coverage
+### Government Schemes Coverage
 - Agriculture schemes (PM-KISAN, etc.)
 - Employment programs (MGNREGA)
 - Health insurance (Ayushman Bharat)
@@ -26,7 +26,7 @@ A comprehensive AI-powered chatbot designed to help rural and illiterate users a
 - Senior citizen benefits
 - Banking and finance schemes
 
-### 🎨 User Experience
+### User Experience
 - Simple, accessible interface designed for rural users
 - Large fonts and clear visual indicators
 - Responsive design for mobile devices
